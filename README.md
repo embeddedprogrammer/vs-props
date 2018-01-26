@@ -16,6 +16,10 @@ This repository contains some simple examples of property pages for OpenCV and M
 * The debug version of OpenCV is very slow. If you need to debug, it is much nicer to compile your own application in debug mode while using the OpenCV release version.
 * These property pages were created using instructions found [here](https://docs.opencv.org/2.4/doc/tutorials/introduction/windows_visual_studio_Opencv/windows_visual_studio_Opencv.html)
 
-## Matlab Mex Function Property Pages
+## Matlab Mex Function Property Page
 * This property page was created using the instructions [here](https://www.mathworks.com/help/matlab/matlab_external/compiling-mex-files-with-the-microsoft-visual-c-ide.html)
+
+## Console Property Page
+* Keeps the console open after the project finishes running
+* This property page was created using the comment by Trevor Robinson [here](https://stackoverflow.com/a/1775870/4307850)
 

@@ -11,7 +11,7 @@ This repository contains some simple examples of property pages for OpenCV and M
 * More information on property pages can be found [here](https://msdn.microsoft.com/en-us/library/669zx6zc.aspx)
 
 ## OpenCV Property Pages
-* Create and OpenCV_DIR environment variable, as is done in the OpenCV docs instructions linked below
+* Create the OpenCV_DIR environment variable, as is done in the OpenCV docs instructions linked below
 * Make sure you set the OpenCV_DIR to the OpenCV folder (eg. vc14) that corresponds to the correct visual studio version. Note that the visual studio numbering doesn't necessarily correspond to the year. For example, the vc14 folder is for Visual Studio 2015.
 * The debug version of OpenCV is very slow. If you need to debug, it is much nicer to compile your own application in debug mode while using the OpenCV release version.
 * These property pages were created using instructions found [here](https://docs.opencv.org/2.4/doc/tutorials/introduction/windows_visual_studio_Opencv/windows_visual_studio_Opencv.html)
